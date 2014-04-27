@@ -1,0 +1,3 @@
+name = "African Institute for Mathematical Sciences"
+sld = "aims-cameroon"
+tld = "org"
